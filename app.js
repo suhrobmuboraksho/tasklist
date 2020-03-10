@@ -1,3 +1,4 @@
+// Global vars
 const form = document.querySelector("#task-form");
 const taskInput = document.querySelector("#task");
 const taskList = document.querySelector(".collection");
